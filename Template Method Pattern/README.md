@@ -5,7 +5,7 @@
 ## b. Motivation
 ### 
 ## c. Applicability
-### 
+### Auxiliar na construção com partes do algoritmo definido por método abstrato, construindo assim o algoritmo por completo.
 ## d. Structure
 ### Composto pelo Main.Java, AviPlayer.java, MkvPlayer.java, Mp4Player.java e Player.java
 ## e. Participants

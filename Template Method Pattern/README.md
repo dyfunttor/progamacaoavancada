@@ -7,7 +7,7 @@
 ## c. Applicability
 ### 
 ## d. Structure
-### 
+### Composto pelo Main.Java, AviPlayer.java, MkvPlayer.java, Mp4Player.java e Player.java
 ## e. Participants
 ### 
 ## f. Sample Code 

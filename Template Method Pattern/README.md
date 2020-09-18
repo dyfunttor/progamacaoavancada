@@ -11,6 +11,6 @@
 ## e. Participants
 ### 
 ## f. Sample Code 
-Qual o tipo de vídeo: mp4
+```Qual o tipo de vídeo: mp4
 ............... Arquivo carregado: Mp4
-Player iniciado
+Player iniciado```

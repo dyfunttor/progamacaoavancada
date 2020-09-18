@@ -1,16 +1,16 @@
-# Composite
+# Template Method Pattern
 
-## a. Pattern Name and Classification
-###
-## b. Intent
+## a. Intent
+### Usuário escolhe um tipo de arquivo de vídeo para carregar e logo em seguida um player com o arquivo é iniciado.
+## b. Motivation
 ### 
-## c. Motivation
+## c. Applicability
 ### 
-## d. Applicability
+## d. Structure
 ### 
-## e. Structure
+## e. Participants
 ### 
-## f. Participants
-### 
-## g. Sample Code 
-### 
+## f. Sample Code 
+### Qual o tipo de vídeo: mp4
+### ............... Arquivo carregado: Mp4
+### Player iniciado

@@ -1,11 +1,11 @@
 # Singleton
 
 ## a. Intent
-### Usuário escolhe um tipo de arquivo de vídeo para carregar e logo em seguida um player com o arquivo é iniciado.
+### Esse padrão de projeto serve para que seja criada apenas uma instância de uma classe.
 ## b. Motivation
 ### 
 ## c. Applicability
-### Auxiliar na construção com partes do algoritmo definido por método abstrato, construindo assim o algoritmo por completo.
+### Esse padrão de projeto serve para que seja criada apenas uma instância de uma classe.
 ## d. Structure
 ### Composto pelo Main.Java, AviPlayer.java, MkvPlayer.java, Mp4Player.java e Player.java
 ## e. Participants
